@@ -42,7 +42,7 @@ main {
 	position: relative;
 	row-gap: 5px;
 	min-width: 350px;
-	max-height: 375px;
+	min-height: 375px;
 	background-color: white;
 	border-radius: 0.5rem;
 	overflow: hidden;
@@ -80,7 +80,7 @@ main {
 	font-size: 15px;
 	color: var(--fcolor-paragraph);
 	font-weight: var(--font-weight-paragraph);
-	margin-bottom: 5%;
+	margin-bottom: 10%;
 }
 
 hr {
